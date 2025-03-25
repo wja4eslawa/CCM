@@ -36,9 +36,6 @@ Continuous chain model allows to reseive an analytical expresions for size chara
 ## Files and How to use
 This project contains:
 - a folder with schematics of the architectures considered. All figures were made for this project and do not apper in the papers
-- a single python file that contains both the programed expressions as well as interface. It requres tkinter and numpy to run 
-- a executable file for windows that you can run without instalation
-
-**Note** for both .py and .exe a folder with pictures next to the file is required.   
+- a single python file that contains both the programed expressions as well as interface. It requres tkinter and numpy to run
 
 With any questions regarding the analytical calculations you can contact me on [ResearchGate](https://www.researchgate.net/profile/Khristine-Haydukivska)
